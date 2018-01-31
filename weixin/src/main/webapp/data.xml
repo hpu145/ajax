@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user id="1001">
+		<name>jack</name>
+		<age>23</age>
+		<address>焦作</address>
+		<score>95</score>
+		<comments><![CDATA[<h1>good</h1>]]></comments>
+	</user>
+	<!-- 这是注释 -->
+	<user id="1002">
+		<name>tom</name>
+		<age>23</age>
+		<address>新乡</address>
+		<score></score>
+	</user>
+	<user id="1003">
+		<name>rose</name>
+		<age>23</age>
+		<address>郑州了</address>
+	</user>
+</users>
